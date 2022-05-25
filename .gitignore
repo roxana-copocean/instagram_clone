@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+.env
+about.txt
+reducers.txt
+stuffinstalled.txt
+
+public/images
+
 # testing
 /coverage
 
